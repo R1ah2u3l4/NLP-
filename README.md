@@ -28,18 +28,16 @@ The project involves the following main components:
 Dependencies
 To run this project, you'll need the following Python libraries installed:
 
-NLTK
-WordCloud
-TextBlob
-FreqDist
-Flatten
-CountVectorizer
-scikit-learn (for Logistic Regression)
-Matplotlib (for visualization)
-Pandas
-NumPy
-Contributing
-Contributions to this project are welcome. If you would like to contribute, please follow these steps:
+Dependencies
+To run this project, you'll need the following Python libraries installed:
+
+. NLTK
+. WordCloud
+. TextBlob
+. FreqDist
+. Flatten
+. CountVectorizer
+
 
 Fork the repository on GitHub
 
